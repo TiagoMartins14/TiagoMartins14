@@ -15,10 +15,10 @@ I’m a registered nurse transitioning into the world of software development, d
 🚀 I’m actively looking for opportunities where I can deepen my Web3 skills and contribute to impactful projects. Let’s connect if you're building in the space or looking for someone who's as dedicated to learning as they are to delivering.
 
 ## 💻 Currently learning
-[![My Skills](https://skillicons.dev/icons?i=solidity,typescript,postgresql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=typescript,postgresql)](https://skillicons.dev)
 
 ## 🛠 Skills
-[![My Skills](https://skillicons.dev/icons?i=bash,git,github,c,cpp,html,css,js,docker,nginx)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=solidity,bash,git,github,c,cpp,html,css,js,docker,nginx)](https://skillicons.dev)
 
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tiagomartins14/)
