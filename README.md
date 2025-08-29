@@ -24,7 +24,7 @@ I’m a registered nurse transitioning into the world of software development, d
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tiagomartins14/)
 
 ## 👀 Curiosities
-👩‍💻 I'm currently working on DeFi within a personal project.
+👩‍💻 I'm currently working on a dApp within a personal project.
 
 👯‍♀️ I'm looking to collaborate on web3 in real world problems
 
