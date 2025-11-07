@@ -26,6 +26,6 @@ I'm a software developer coming from nursing, driven by a deep curiosity for tec
 ## 👀 Curiosities
 👩‍💻 I'm currently working on a dApp within a personal project.
 
-👯‍♀️ I'm looking to collaborate on web3 in real world problems
+👯‍♀️ I'm looking to collaborate in real world problems
 
 ⛩ I'm currently learning Japanese
