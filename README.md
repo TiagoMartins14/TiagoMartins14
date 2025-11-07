@@ -3,10 +3,10 @@
 
 
 ## 🚀 About Me
-🧠 From Healthcare to Code — with Purpose.
+🧠 From Healthcare to Code - with Purpose.
 I'm a software developer coming from nursing, driven by a deep curiosity for technology and a enthusiasm for building meaningful systems.
 
-🎯 I've recently finished the core studies at 42 Porto and I've started working on the advanced branches, with special focus on Web3 - a technology capable of reshaping how we interact, build, and trust online.
+🎯 I've recently finished the core studies at 42 Porto and I've started working on the advanced branches.
 
 💡 I'm currently working on a personal project where I use Blockchain technology to create a fair and transparent way to run a lottery-type game where I'm further developing my knowledge day by day.
 
