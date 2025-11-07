@@ -15,7 +15,7 @@ I'm a software developer coming from nursing, driven by a deep curiosity for tec
 🚀 I’m actively looking for opportunities where I can deepen my skills and contribute to impactful projects. Let’s connect if you're looking for someone who's as dedicated to learning as they are to delivering.
 
 ## 💻 Currently learning
-[![My Skills](https://skillicons.dev/icons?i=rust,postgresql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,postgresql)](https://skillicons.dev)
 
 ## 🛠 Skills
 [![My Skills](https://skillicons.dev/icons?i=solidity,bash,git,github,c,cpp,html,css,js,react,docker,nginx)](https://skillicons.dev)
