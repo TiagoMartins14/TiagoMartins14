@@ -24,7 +24,7 @@ I'm a software developer coming from nursing, driven by a deep curiosity for tec
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tiagomartins14/)
 
 ## 👀 Curiosities
-👩‍💻 I'm currently working on a dApp within a personal project.
+🐍 I'm currently mesmerizing Python on 42 School Advanced Projects.
 
 👯‍♀️ I'm looking to collaborate in real world problems
 
